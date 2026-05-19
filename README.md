@@ -1,4 +1,4 @@
-# Host Anomaly Detection Using ML
+# Linux Host Anomaly Detection Using ML
 
 A machine-learning based Linux host anomaly detection system using `strace` syscall tracing and an `Isolation Forest` model.
 
